@@ -1,0 +1,15 @@
+{
+    "topicCollections":
+            [
+                {
+                    "topicName": "IMSApplicationLogs",
+                    "solrCollection": "IMSApplicationLogs"
+                },
+                {
+                    "topicName": "IMSApplicationLogs",
+                    "solrCollection": "IMSApplicationLogs"
+                }
+
+            ]
+}
+
